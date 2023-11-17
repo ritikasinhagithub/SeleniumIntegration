@@ -4,7 +4,7 @@ pipeline {
         stage('Get Source Code') {
             steps {
               echo 'source code'
-            }
+            } fgflkngnbfngbn
         }
         stage('build')
         {
