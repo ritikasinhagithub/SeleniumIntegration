@@ -19,6 +19,7 @@ pipeline {
         {
             steps{
                echo 'testting'
+               printf(hello xyz 1)
             }
         }
     }
